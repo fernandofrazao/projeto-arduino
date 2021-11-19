@@ -2,7 +2,7 @@
 
 */
 //https://www.usinainfo.com.br/sensor-uv-ultravioleta/sensor-uv-ultravioleta-para-arduino-guva-s12sd-4614.html
-#include <Servo.h> // tu precisa dessa lib pra trabalhar com o SG90
+#include <Servo.h> //  precisa dessa lib pra trabalhar com o SG90
 
 const int dayAnalogUV = 100; // o GUVA retorna um valor analógico sobre a radiação, aqui vai ser o que tu define como dia
 
